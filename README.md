@@ -2,4 +2,4 @@
 
   一些零碎记录
  
-  Some notes about little thinges. 
+  Some notes about little things. 
