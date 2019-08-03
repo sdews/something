@@ -1,0 +1,7 @@
+name: something-tech
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pip
